@@ -1,7 +1,5 @@
 # Credit_Card_DashBoard
-Certainly! Here's a README tailored for your Power BI project:
 
----
 
 # Credit Card Management System - Power BI Project
 
@@ -11,16 +9,24 @@ The Credit Card Management System is a Power BI project designed to provide comp
 
 ## Key Features
 
-- **Customer Demographics Analysis**: Explore customer demographics including age, gender, location, and income distribution.
-- **Spending Habits Analysis**: Gain insights into customers' spending habits, preferences, and trends.
-- **Transaction Analysis**: Analyze credit card transactions to identify patterns, anomalies, and fraud detection.
-- **Interactive Dashboards**: Utilize interactive dashboards for real-time exploration and analysis.
-- **Data Security**: Ensure data security and privacy through appropriate access controls and encryption measures.
-- **Customizable Reports**: Customize reports based on specific criteria and requirements.
+- **User can see report Quarterly basis.**
+- **User can see report according to gender.**
+- **User can see report according to income level.**
+- **User can choose a report weekly basis.**
+- Revenue by Education.
+- Number of Car Owners.
+- Revenue by Income.
+- Sum of Revenue by AgeGroup and Gender.
+- Revenue by Age.
+- Revenue by State.
+- Revenue by Job.
+- Revenue by Chip used.
+- Revenue Total Transaction
+  
 
 ## Data Sources
 
-The project utilizes credit card customer data and transaction data sourced from [data source name or source type]. The data is preprocessed and transformed to create meaningful visualizations and insights.
+The project utilizes credit card customer data and transaction data sourced from [https://github.com/AbhishekKumar0313/Credit_Card_DashBoard]. The data is preprocessed and transformed to create meaningful visualizations and insights.
 
 ## Installation
 
@@ -40,6 +46,7 @@ The project utilizes credit card customer data and transaction data sourced from
 ## Screenshots
 
 [Insert screenshots here to visually demonstrate the report pages and dashboard examples.]
+![Alt Text](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/blob/main/Screenshot%202024-05-11%20223334.png)
 
 ## Future Enhancements
 
