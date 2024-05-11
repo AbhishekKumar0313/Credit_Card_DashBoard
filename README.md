@@ -44,8 +44,6 @@ The project utilizes credit card customer data and transaction data sourced from
 6. Optionally, publish the report to Power BI Service for sharing and collaboration.
 
 ## Screenshots
-
-[Insert screenshots here to visually demonstrate the report pages and dashboard examples.]
 ![Alt Text](https://github.com/AbhishekKumar0313/Credit_Card_DashBoard/blob/main/Screenshot%202024-05-11%20223334.png)
 
 ## Future Enhancements
@@ -57,10 +55,7 @@ The project utilizes credit card customer data and transaction data sourced from
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-
+- [Abhishek Kumar](https://github.com/AbhishekKumar0313)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
