@@ -1,5 +1,3 @@
-# Credit_Card_DashBoard
-
 
 # Credit Card Management System - Power BI Project
 
